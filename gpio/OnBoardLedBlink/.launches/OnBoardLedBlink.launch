@@ -16,6 +16,7 @@
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROGRAM.C:\Users\GauravLT\Desktop\msp430_projects\MSP430G2\gpio\OnBoardLedBlink\targetConfigs\MSP430G2553.ccxml.TI MSP430 USB1/MSP430" value="${build_artifact:OnBoardLedBlink}"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROJECT.C:\Users\GauravLT\Desktop\msp430_projects\MSP430G2\gpio\OnBoardLedBlink\targetConfigs\MSP430G2553.ccxml.TI MSP430 USB1/MSP430" value="OnBoardLedBlink"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_TARGET_CONFIG" value="${target_config_active_default:OnBoardLedBlink}"/>
+<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.C:\Users\GauravLT\Desktop\msp430_projects\MSP430G2\gpio\OnBoardLedBlink\targetConfigs\MSP430G2553.ccxml.TI MSP430 USB1/MSP430" value="C:/Users\GauravLT\Desktop\msp430_projects\MSP430G2\gpio\OnBoardLedBlink\Release\OnBoardLedBlink.out"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <listEntry value="/OnBoardLedBlink"/>
 </listAttribute>
